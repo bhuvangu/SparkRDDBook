@@ -2,7 +2,9 @@
 
 **A comprehensive guide to Spark's Resilient Distributed Dataset, explained for Java developers.**
 
-Based on the actual source code of **Apache Spark 0.5.0** — the earliest public release, where the design is beautifully simple and the core ideas are crystal clear.
+Generated using Opus4.6(Anthropic) based on the actual source code of **Apache Spark 0.5.0** — the earliest public release, where the design is beautifully simple and the core ideas are crystal clear.
+
+
 
 ---
 
