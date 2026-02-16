@@ -20,33 +20,33 @@ Generated using Opus4.6(Anthropic) based on the actual source code of **Apache S
 ## Table of Contents
 
 ### Part 1: The Problem RDD Solves
-- [Chapter 1: The Problem — Processing Big Data Across Machines](Chapter-01-The-Problem.md)
-- [Chapter 2: A Gentle Scala Survival Guide for Java Developers](Chapter-02-Scala-for-Java-Developers.md)
+- [Chapter 1: The Problem — Processing Big Data Across Machines](book/Chapter-01-The-Problem.md)
+- [Chapter 2: A Gentle Scala Survival Guide for Java Developers](book/Chapter-02-Scala-for-Java-Developers.md)
 
 ### Part 2: The RDD Building Blocks
-- [Chapter 3: Split — What Is a Partition, Really?](Chapter-03-Split.md)
-- [Chapter 4: Compute — The Recipe for One Partition](Chapter-04-Compute.md)
-- [Chapter 5: Dependency — Who Is Your Parent?](Chapter-05-Dependency.md)
-- [Chapter 6: Partitioner — How Keys Get Assigned to Partitions](Chapter-06-Partitioner.md)
+- [Chapter 3: Split — What Is a Partition, Really?](book/Chapter-03-Split.md)
+- [Chapter 4: Compute — The Recipe for One Partition](book/Chapter-04-Compute.md)
+- [Chapter 5: Dependency — Who Is Your Parent?](book/Chapter-05-Dependency.md)
+- [Chapter 6: Partitioner — How Keys Get Assigned to Partitions](book/Chapter-06-Partitioner.md)
 
 ### Part 3: The RDD Itself
-- [Chapter 7: The Base RDD Class — The Contract](Chapter-07-Base-RDD-Class.md)
-- [Chapter 8: Transformations — Creating New RDDs from Old Ones](Chapter-08-Transformations.md)
-- [Chapter 9: Actions — When Computation Actually Happens](Chapter-09-Actions.md)
+- [Chapter 7: The Base RDD Class — The Contract](book/Chapter-07-Base-RDD-Class.md)
+- [Chapter 8: Transformations — Creating New RDDs from Old Ones](Cbook/hapter-08-Transformations.md)
+- [Chapter 9: Actions — When Computation Actually Happens](book/Chapter-09-Actions.md)
 
 ### Part 4: The RDD Zoo — Every Subclass Explained
-- [Chapter 10: HadoopRDD — Reading Data from the Outside World](Chapter-10-HadoopRDD.md)
-- [Chapter 11: UnionRDD — Combining Datasets](Chapter-11-UnionRDD.md)
-- [Chapter 12: CartesianRDD — The Cross Product](Chapter-12-CartesianRDD.md)
-- [Chapter 13: ShuffledRDD — The Network Shuffle](Chapter-13-ShuffledRDD.md)
-- [Chapter 14: CoGroupedRDD — Smart Joins](Chapter-14-CoGroupedRDD.md)
-- [Chapter 15: PipedRDD — Shelling Out to External Programs](Chapter-15-PipedRDD.md)
-- [Chapter 16: SampledRDD — Random Sampling](Chapter-16-SampledRDD.md)
-- [Chapter 17: PairRDDFunctions — The Key-Value Power Tools](Chapter-17-PairRDDFunctions.md)
+- [Chapter 10: HadoopRDD — Reading Data from the Outside World](book/Chapter-10-HadoopRDD.md)
+- [Chapter 11: UnionRDD — Combining Datasets](book/Chapter-11-UnionRDD.md)
+- [Chapter 12: CartesianRDD — The Cross Product](book/Chapter-12-CartesianRDD.md)
+- [Chapter 13: ShuffledRDD — The Network Shuffle](book/Chapter-13-ShuffledRDD.md)
+- [Chapter 14: CoGroupedRDD — Smart Joins](book/Chapter-14-CoGroupedRDD.md)
+- [Chapter 15: PipedRDD — Shelling Out to External Programs](book/Chapter-15-PipedRDD.md)
+- [Chapter 16: SampledRDD — Random Sampling](book/Chapter-16-SampledRDD.md)
+- [Chapter 17: PairRDDFunctions — The Key-Value Power Tools](book/Chapter-17-PairRDDFunctions.md)
 
 ### Part 5: The Big Picture
-- [Chapter 18: Lineage — The RDD Graph](Chapter-18-Lineage.md)
-- [Chapter 19: Putting It All Together — A Full Example](Chapter-19-Full-Example.md)
+- [Chapter 18: Lineage — The RDD Graph](book/Chapter-18-Lineage.md)
+- [Chapter 19: Putting It All Together — A Full Example](book/Chapter-19-Full-Example.md)
 
 ---
 
