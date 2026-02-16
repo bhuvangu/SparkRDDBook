@@ -1,4 +1,10 @@
-theme: jekyll-theme-minimal
-title: Understanding RDD — From Java to Spark's Core
-description: A comprehensive guide to Spark's Resilient Distributed Dataset
-markdown: kramdown
+# theme setting
+theme: cayman
+
+# Removed kramdown setting
+
+# Adding table-related settings
+table:
+  style: basic
+  align: center
+  width: 80%
